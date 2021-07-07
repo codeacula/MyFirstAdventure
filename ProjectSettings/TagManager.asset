@@ -11,13 +11,13 @@ TagManager:
   - 
   - Water
   - UI
+  - Ground
+  - BottomLowerDeco
+  - BottomUpperDeco
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Collideable
+  - TopLowerDeco
+  - TopUpperDeco
   - 
   - 
   - 
@@ -40,4 +40,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3335065927
     locked: 0
