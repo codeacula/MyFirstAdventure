@@ -14,7 +14,7 @@ TagManager:
   - Ground
   - BottomLowerDeco
   - BottomUpperDeco
-  - 
+  - Walls
   - Collideable
   - TopLowerDeco
   - TopUpperDeco
@@ -43,4 +43,19 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 3335065927
+    locked: 0
+  - name: Wall
+    uniqueID: 507866985
+    locked: 0
+  - name: Lower Deco
+    uniqueID: 3662642441
+    locked: 0
+  - name: Main
+    uniqueID: 3072833353
+    locked: 0
+  - name: Upper Deco
+    uniqueID: 4056832703
+    locked: 0
+  - name: UI
+    uniqueID: 3204310861
     locked: 0
